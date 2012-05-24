@@ -34,3 +34,7 @@ nbproject
 .CVS
 .idea
 node_modules
+
+#local build
+css
+!docs/css
