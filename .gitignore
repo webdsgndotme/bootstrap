@@ -34,3 +34,7 @@ nbproject
 .CVS
 .idea
 node_modules
+
+# Root build css
+*.css
+!docs/*.css
